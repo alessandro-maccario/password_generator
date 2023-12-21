@@ -1,0 +1,14 @@
+# Automatically rerun script when the file is modified on disk.
+
+# Default: false
+# runOnSave = true
+
+[theme]
+# The preset Streamlit theme that your custom theme inherits from.
+# One of "light" or "dark".
+base = "dark"
+primaryColor="#f63366"
+backgroundColor="#000000"
+secondaryBackgroundColor="#242c35"
+textColor="#00FF00"
+font="monospace"
